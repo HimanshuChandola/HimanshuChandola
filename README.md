@@ -8,7 +8,10 @@
 <a href="https://open.spotify.com/user/21f63y3cygvzsmnk7kkae5vja?si=9a17905fab5440fc">
   <img align="left" alt="Himanshu's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=himanshuchandola.visitor-badge) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/himanshuchandola)
+
+![](https://visitor-badge.glitch.me/badge?page_id=himanshuchandola.visitor-badge)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/himanshuchandola)
+
+<br />
 
 Hi, I'm [Himanshu Chandola](https://himanshuchandola.github.io/), a passionate self-taught Frontednt Web Developer, Reverser and Malware Analyst from India.
 
