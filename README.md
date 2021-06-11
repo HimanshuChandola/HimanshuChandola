@@ -22,14 +22,20 @@ I'm  pursuing Masters's in Computer Science 🎓 from Graphic Era Hill Universit
 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/himanshuchandola/himanshuchandola/main/working.gif?raw=true" width="500" height="320" />
+
+
   
 - 💼 How to reach me: [email](mailto:himanshuchandola@protonmail.com) :)
 - 💬 Ask me about anything, I am happy to help; :)
+
+
 
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 📰 &nbsp; Reading tech blogs whenever possible.
+
+
 
 **Languages and Tools:**  
 
@@ -40,6 +46,8 @@ I'm  pursuing Masters's in Computer Science 🎓 from Graphic Era Hill Universit
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+
+
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
@@ -49,6 +57,8 @@ HTML         55 mins         █░░░░░░░░░░░░░░░░
 CSS          33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 ```
 <!--END_SECTION:waka-->
+
+
 
 ### Projects and Dev Stuffs:
 
