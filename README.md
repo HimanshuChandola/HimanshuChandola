@@ -44,7 +44,7 @@ CSS          33 mins         ▓░░░░░░░░░░░░░░░░
 
 
 
-
+<center>
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=himanshuchandola&show_icons=true&theme=gotham" alt="himanshuchandola" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=himanshuchandola&show_icons=true&theme=gotham" alt="himanshuchandola" /> </center>
