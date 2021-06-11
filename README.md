@@ -17,11 +17,19 @@ Hi, I'm [Himanshu Chandola](https://himanshuchandola.github.io/), a passionate s
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
+I'm  pursuing Masters's in Computer Science 🎓 from Graphic Era Hill University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/himanshuchandola/himanshuchandola/main/working.gif?raw=true" width="500" height="320" />
+
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/himanshuchandola/himanshuchandola/main/working.gif?raw=true" width="500" height="320" />
   
-- 💼 Any freelance work? Do reach, [email](mailto:himanshuchandola@protonmail.com) :)
-- 💬 Ask me about anything, I am happy to help;
+- 💼 How to reach me: [email](mailto:himanshuchandola@protonmail.com) :)
+- 💬 Ask me about anything, I am happy to help; :)
+
+### My Absolute Favorites:
+
+- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 📰 &nbsp; Reading tech blogs whenever possible.
 
 **Languages and Tools:**  
 
@@ -42,5 +50,40 @@ CSS          33 mins         ▓░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=himanshuchandola&show_icons=true&theme=gotham" alt="himanshuchandola" />
+### Projects and Dev Stuffs:
+
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=himanshuchandola&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuchandola&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuchandola&hide_border=true" />
+</details>
+
+<details>	
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> Ubuntu 20.04</li>
+	    <li><b>Laptop: </b> HP (i5)</li>
+  	    <li><b>Browser: </b> Ungoogled Chromium Web Browser</li>
+	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
+	    <li><b>To Stay Updated:</b> Dev.to, Reddit, Linkedin and Twitter.</li>
+	    <br />
+	</ul>	
+</details>
+
+#
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
