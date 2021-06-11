@@ -10,8 +10,6 @@
 </a>
 ![](https://visitor-badge.glitch.me/badge?page_id=himanshuchandola.visitor-badge) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/himanshuchandola)
 
-<br />
-
 Hi, I'm [Himanshu Chandola](https://himanshuchandola.github.io/), a passionate self-taught Frontednt Web Developer, Reverser and Malware Analyst from India.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
