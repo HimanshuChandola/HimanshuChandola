@@ -37,7 +37,7 @@ I'm  pursuing Masters's in Computer Science 🎓 from Graphic Era Hill Universit
 
 
 
-**Languages and Tools:**  
+### **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -48,7 +48,7 @@ I'm  pursuing Masters's in Computer Science 🎓 from Graphic Era Hill Universit
 
 
 
-📊 **This Week I Spent My Time On:**
+### 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
 Python       21 hrs 33 mins  ████████████████████▒░░░░   81.61 % 
