@@ -18,7 +18,7 @@ Hi, I'm [Himanshu Chandola](https://himanshuchandola.github.io/), a passionate s
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/himanshuchandola/himanshuchandola/main/working.gif?raw=true" width="500" height="320" />
   
 - 💼 Any freelance work? Do reach, [email](mailto:himanshuchandola@protonmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
