@@ -37,7 +37,7 @@ I'm  pursuing Masters's in Computer Science 🎓 from Graphic Era Hill Universit
 - 📰 &nbsp; Reading tech blogs whenever possible.
 
 
-<hr>
+
 ### **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -48,7 +48,7 @@ I'm  pursuing Masters's in Computer Science 🎓 from Graphic Era Hill Universit
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-<hr>
+
 ### 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
@@ -60,7 +60,7 @@ CSS          33 mins         ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-<hr>
+
 ### Projects and Dev Stuffs:
 
 <details>	
@@ -94,7 +94,7 @@ CSS          33 mins         ▓░░░░░░░░░░░░░░░░
 #
 
 <div align="center">
-<hr>
+
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
