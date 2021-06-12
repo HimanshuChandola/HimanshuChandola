@@ -13,7 +13,7 @@
 
 <br />
 
-Hi, I'm [Himanshu Chandola](https://himanshuchandola.github.io/), a passionate self-taught Frontednt Web Developer, Reverser and Malware Analyst from India.
+Hi, I'm [Himanshu Chandola](https://himanshuchandola.github.io/), a passionate self-taught Frontend Web Developer, Reverser and Malware Analyst from India.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
