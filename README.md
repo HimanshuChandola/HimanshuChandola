@@ -1,4 +1,4 @@
-##### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> **Glad to see you here!** :star_struck: <br>
+##### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> **Glad to see you here!** :star_struck: <br>.
 <hr>
 <a href="https://twitter.com/himanshuistaken">
   <img align="left" alt="Himanshu Chandola | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -82,7 +82,7 @@ CSS          33 mins         ▓░░░░░░░░░░░░░░░░
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04</li>
+  	    <li><b>OS:</b> Windows 10 Pro 21H1 </li>
 	    <li><b>Laptop: </b> HP (i5)</li>
   	    <li><b>Browser: </b> Ungoogled Chromium Web Browser</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
